@@ -20,9 +20,9 @@ https://github.com/marcocastellaro/MRI-Together-BIDS-HandsOn/blob/main/Image_Dat
 
 # BIDS Resources
 
-https://bids.neuroimaging.io/
-https://github.com/bids-standard/
-https://github.com/bids-standard/bids-validator
+- https://bids.neuroimaging.io/
+- https://github.com/bids-standard/
+- https://github.com/bids-standard/bids-validator
 
 # Community effort
 https://bids.neuroimaging.io/get_involved.html
