@@ -16,6 +16,8 @@ Patricia Clement @ Unigent
     - dcm2bids 
     - BIDS-validator
 
+https://github.com/marcocastellaro/MRI-Together-BIDS-HandsOn/blob/main/Image_Data_Conversion_How_to_Work_with_BIDs_Hands_On_Interactive_Session.ipynb
+
 # BIDS Resources
 
 https://bids.neuroimaging.io/
